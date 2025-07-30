@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>vii7on – Will You Be My Valentine?</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1 class="blink-text">Will You Be My Valentine? 💖</h1>
+    <div class="floating-hearts">
+      <span>💗</span><span>💘</span><span>💕</span><span>💓</span><span>💞</span>
+    </div>
+  </div>
+</body>
+</html>
